@@ -1,3 +1,4 @@
+<svelte:options tag="svelte-loader" />
 <script>
     import {draw} from 'svelte/transition'
     import {quadInOut} from 'svelte/easing'
